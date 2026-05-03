@@ -1,6 +1,6 @@
 # Module 11 Assignment: Data Visualization with Matplotlib
 
-## Project Title
+
 **SunCoast Retail Visual Analysis**
 
 ## Description
